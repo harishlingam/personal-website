@@ -12,7 +12,7 @@ post_date: 2019-01-25 07:15:37
 <p>&nbsp;</p>
 <p><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/consulting-2204253_1920.png"><img class="wp-image-697 alignnone" src="http://www.harishlingam.com/wp-content/uploads/2019/01/consulting-2204253_1920-300x200.png" alt="" width="595" height="396" /></a></p>
 <h1>Consulting</h1>
-<p>I consult for individuals, companies, and organizations on strategy and operational issues relevant to healthcare delivery, staffing and optimization, and regulatory compliance. I also work with entrepreneurs to refine product strategy, perform customer research, assess competitive landscape, validate product features, and implement product management best practices. Reach out through <a href="http://www.harishlingam.com/contact-me/">my contact form</a> to discuss how we can work together.</p>
+<p>I work with entrepreneurs to refine product strategy, perform customer research, assess competitive landscape, validate product features, and implement product management best practices. I consult for individuals and organizations on strategy and operational issues relevant to healthcare delivery, staffing and optimization, and regulatory compliance. Reach out through <a href="http://www.harishlingam.com/contact-me/">my contact form</a> to discuss how we can work together.</p>
 <table>
 <tbody>
 <tr>
