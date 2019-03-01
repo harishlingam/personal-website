@@ -17,10 +17,10 @@ post_date: 2019-01-25 07:15:37
 <tbody>
 <tr>
 <td width="312">
-<p><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/Ata-logo-transp.png"><img class="wp-image-381 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2019/01/Ata-logo-transp.png" alt="" width="139" height="103" /></a></p>
+<p><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/Ata-logo-transp.png"><img class="wp-image-381 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2019/01/Ata-logo-transp.png" alt="" width="132" height="98" /></a></p>
 </td>
 <td width="312">
-<p><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/navigant.png"><img class=" wp-image-383 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2019/01/navigant-300x169.png" alt="" width="230" height="130" /></a></p>
+<p><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/navigant.png"><img class=" wp-image-383 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2019/01/navigant-300x169.png" alt="" width="221" height="125" /></a></p>
 </td>
 </tr>
 <tr>
@@ -31,10 +31,10 @@ post_date: 2019-01-25 07:15:37
 </tr>
 <tr>
 <td width="312">
-<p><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/addicaid.png"><img class=" wp-image-380 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2019/01/addicaid-300x102.png" alt="" width="198" height="67" /></a></p>
+<p><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/addicaid.png"><img class=" wp-image-380 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2019/01/addicaid-300x102.png" alt="" width="183" height="62" /></a></p>
 </td>
 <td width="312">
-<p><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/chicagomed.png"><img class=" wp-image-386 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2019/01/chicagomed-300x107.png" alt="" width="211" height="75" /></a></p>
+<p><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/chicagomed.png"><img class=" wp-image-386 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2019/01/chicagomed-300x107.png" alt="" width="205" height="73" /></a></p>
 </td>
 </tr>
 </tbody>
