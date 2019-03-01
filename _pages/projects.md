@@ -11,7 +11,7 @@ post_date: 2019-01-25 07:15:37
 <!-- wp:fl-builder/layout -->
 <p>&nbsp;</p>
 <p><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/1491904148568_4.jpg"><img class="alignnone  wp-image-430" src="http://www.harishlingam.com/wp-content/uploads/2019/01/1491904148568_4-300x173.jpg" alt="" width="626" height="361" /></a></p>
-<p>First, a bit about me: I graduated from the University of Chicago in Philosophy and completed a pre-health professional postbaccalaureate at Harvard. I am also a Full Stack Certified Product Manager, Certified ScrumMaster (CSM), and Certified Scrum Product Owner (CSPO). I have worked as a management consultant in the financial services and healthcare industries and consult to individuals, companies, and organizations in the healthcare and technology sector, including the areas of mobile health, healthcare IT, behavioral health, and telemedicine.</p>
+<p>First, a bit about me: I graduated from the University of Chicago in Philosophy and completed a premedical postbaccalaureate at Harvard. I am also a Full Stack Certified Product Manager, Certified ScrumMaster (CSM), and Certified Scrum Product Owner (CSPO). I have worked as a management consultant in the financial services and healthcare industries and consult to individuals, companies, and organizations in the healthcare and technology sector, including the areas of mobile health, healthcare IT, behavioral health, and telemedicine.</p>
 <p>&nbsp;</p>
 <h1>Notable Projects</h1>
 <h3>Controlled Substances Teleprescribing Algorithm</h3>
