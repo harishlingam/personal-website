@@ -15,7 +15,9 @@ post_date: 2019-01-25 07:15:37
 <p><a href="http://www.harishlingam.com/wp-content/uploads/2019/02/harish-headshot-yellow.png"><img class=" wp-image-740 alignleft" src="http://www.harishlingam.com/wp-content/uploads/2019/02/harish-headshot-yellow-287x300.png" alt="" width="205" height="214" /></a>Hi there and welcome! I am a product manager, digital consultant, and healthcare entrepreneur. Read about my projects <a href="http://www.harishlingam.com/projects/">here</a>.</p>
 <p>I use this site to <a href="http://www.harishlingam.com/blog/">blog</a> about my various interests across behavioral health technology, telemedicine, product management, and projects that I am passionate about.</p>
 <p>You will find information on topics such as <a href="http://www.harishlingam.com/telemedicine-and-the-interstate-medical-licensure-compact/">interstate telemedicine regulation</a>, <a href="http://www.harishlingam.com/prescribing-controlled-substances-via-telemedicine/">controlled substances prescribing laws</a>, and <a href="http://www.harishlingam.com/a-primer-on-virtual-reality-exposure-therapy-vret/">virtual reality exposure therapy</a>.</p>
-<p><a href="http://www.harishlingam.com/wp-content/uploads/2019/03/artificial-intelligence-3683776_1920.jpg"><img class="alignnone  wp-image-758" src="http://www.harishlingam.com/wp-content/uploads/2019/03/artificial-intelligence-3683776_1920-300x200.jpg" alt="" width="714" height="476" /></a></p>
+<p>&nbsp;</p>
+<p><a href="http://www.harishlingam.com/wp-content/uploads/2019/03/artificial-intelligence-3513224_1920.jpg"><img class="alignnone  wp-image-759" src="http://www.harishlingam.com/wp-content/uploads/2019/03/artificial-intelligence-3513224_1920-300x168.jpg" alt="" width="686" height="384" /></a></p>
+<h2> </h2>
 <h2>Stay connected...</h2>
 <p>If you enjoy my blog posts, sign up for <a href="http://www.harishlingam.com/join/">my monthly newsletter</a>, where I share new articles, updates, and opportunities to connect directly.</p>
 <!-- /wp:fl-builder/layout -->
