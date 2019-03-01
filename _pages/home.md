@@ -17,5 +17,5 @@ post_date: 2019-01-25 07:15:37
 <p>You will find information on topics such as <a href="http://www.harishlingam.com/telemedicine-and-the-interstate-medical-licensure-compact/">interstate telemedicine regulation</a>, <a href="http://www.harishlingam.com/prescribing-controlled-substances-via-telemedicine/">controlled substances prescribing laws</a>, and <a href="http://www.harishlingam.com/a-primer-on-virtual-reality-exposure-therapy-vret/">virtual reality exposure therapy</a>.</p>
 <p><a href="http://www.harishlingam.com/wp-content/uploads/2019/03/artificial-intelligence-3683776_1920.jpg"><img class="alignnone  wp-image-758" src="http://www.harishlingam.com/wp-content/uploads/2019/03/artificial-intelligence-3683776_1920-300x200.jpg" alt="" width="714" height="476" /></a></p>
 <h2>Stay connected...</h2>
-<p>If you enjoy my blog posts, you can join <a href="http://www.harishlingam.com/join/">my monthly newsletter</a>, where I include new articles, special updates, and opportunities to connect with me directly.</p>
+<p>If you enjoy my blog posts, sign up for <a href="http://www.harishlingam.com/join/">my monthly newsletter</a>, where I share new articles, updates, and opportunities to connect directly.</p>
 <!-- /wp:fl-builder/layout -->
