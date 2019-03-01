@@ -16,5 +16,5 @@ post_date: 2019-01-25 07:15:37
 <p>I use this site to <a href="http://www.harishlingam.com/blog/">blog</a> about my various interests across behavioral health technology, telemedicine, product management, and projects that I am passionate about.</p>
 <p>You will find information on topics such as <a href="http://www.harishlingam.com/telemedicine-and-the-interstate-medical-licensure-compact/">interstate telemedicine regulation</a>, <a href="http://www.harishlingam.com/prescribing-controlled-substances-via-telemedicine/">controlled substances prescribing laws</a>, and <a href="http://www.harishlingam.com/a-primer-on-virtual-reality-exposure-therapy-vret/">virtual reality exposure therapy</a>.</p>
 <h2>Stay connected.</h2>
-<p>If you enjoy my blog posts, sign up for <a href="http://www.harishlingam.com/join/">my monthly newsletter</a>, where I share new articles, updates, and opportunities to connect directly.</p>
+<p>If you enjoy my blog posts, sign up for my <a href="http://www.harishlingam.com/join/">newsletter</a>, where I share new articles, updates, and opportunities to connect further.</p>
 <!-- /wp:fl-builder/layout -->
