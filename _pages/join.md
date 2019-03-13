@@ -11,8 +11,7 @@ post_date: 2019-01-25 07:15:37
 <!-- wp:fl-builder/layout -->
 <p><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/blog-3383287_1920.jpg"><img class="alignnone  wp-image-700" src="http://www.harishlingam.com/wp-content/uploads/2019/01/blog-3383287_1920-300x183.jpg" alt="" width="677" height="413" /></a></p>
 <p>&nbsp;</p>
-<p><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/harish-india.jpg"><img class=" wp-image-551 alignleft" src="http://www.harishlingam.com/wp-content/uploads/2019/01/harish-india-287x300.jpg" alt="" width="261" height="273" /></a></p>
-<p><strong>Thanks for visiting my blog!</strong></p>
+<p><strong>Thank you for visiting my blog!</strong></p>
 <p>Like what you see? I write a newsletter each month that covers a range of topics, including innovations in behavioral healthcare, telemedicine, mobile health, and product management.</p>
 <p>The newsletters also add more analysis, special updates, and a chance to engage with me directly.</p>
 <p>If you’re interested, sign up below.</p>
