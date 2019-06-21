@@ -17,7 +17,7 @@ post_date: 2019-01-25 07:15:37
 <tbody>
 <tr>
 <td width="312">
-<p><a href="http://www.harishlingam.com/wp-content/uploads/2019/06/ata-logo.png"><img class=" wp-image-777 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2019/06/ata-logo.png" alt="" width="86" height="72" /></a><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/Ata-logo-transp.png"><br /></a></p>
+<p><a href="http://www.harishlingam.com/wp-content/uploads/2019/06/ata-logo.png"><img class=" wp-image-777 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2019/06/ata-logo.png" alt="" width="86" height="72" /></a></p>
 </td>
 <td width="312">
 <p><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/navigant.png"><img class=" wp-image-383 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2019/01/navigant-300x169.png" alt="" width="221" height="125" /></a></p>
