@@ -1,6 +1,6 @@
 ---
 ID: 156
-post_title: 'Post #156'
+post_title: ""
 author: admin
 post_excerpt: ""
 layout: page
