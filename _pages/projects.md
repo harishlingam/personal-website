@@ -62,7 +62,7 @@ post_date: 2019-01-25 07:15:37
 </table>
 <h3> </h3>
 <h3>WordNugget</h3>
-<p>Children born into poverty hear about <a href="https://cri.uchicago.edu/portfolio/thirty-million-words/">30 million fewer words</a> than wealthy children, a disparity troubling given the strong relationship between what children experience at home and how they develop social, emotional, and literacy skills for life. At the AT&amp;T Mobile App Hackathon, I co-developed WordNugget, a service that sends parents of infants and toddlers messages about kindergarten readiness skills through Internet-based messaging services. | <a href="https://developer.att.com/blog/chicago-hackathon-recap-disruptive-apps">AT&amp;T</a> | <a href="https://tmwcenter.uchicago.edu">Thirty Million Words Initiative</a></p>
+<p>Children born into poverty hear about <a href="https://cri.uchicago.edu/portfolio/thirty-million-words/">30 million fewer words</a> than wealthy children, a disparity troubling given the strong relationship between what children experience at home and how they develop social, emotional, and literacy skills for life. As 1st place finisher at the AT&amp;T Mobile App Hackathon, I co-developed WordNugget, a service that sends parents of infants and toddlers messages about kindergarten readiness skills through Internet-based messaging services. | <a href="https://developer.att.com/blog/chicago-hackathon-recap-disruptive-apps">AT&amp;T</a> | <a href="https://tmwcenter.uchicago.edu">Thirty Million Words Initiative</a></p>
 <table>
 <tbody>
 <tr>
