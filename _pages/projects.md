@@ -12,7 +12,7 @@ post_date: 2019-01-25 07:15:37
 <p>&nbsp;</p>
 <p><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/1491904148568_4.jpg"><img class="alignnone  wp-image-430" src="http://www.harishlingam.com/wp-content/uploads/2019/01/1491904148568_4-300x173.jpg" alt="" width="626" height="361" /></a></p>
 <p>A bit about me: I am a product manager with a healthcare industry background and experience building products and internal tools for companies ranging from Fortune 500 to startup. I am also an advisor to individuals and organizations in the connected and telehealth space.<br /><br />Previously, I was Interim COO at Addicaid and founder and CEO of Laughing Matters. I have 8 years of professional experience working in Boston, Chicago, Denver, and LA, and my roles included running operations at a health tech startup, consulting to healthcare providers, and managing a health/wellness 501(c)3. In a previous life, I was a behavioral scientist focusing on psychology and neurobehavior. </p>
-<p>I graduated from the University of Chicago in Philosophy and completed a Postbaccalaureate in Premedicine at Harvard, and I am a Certified ScrumMaster (CSM) and Certified Scrum Product Owner (CSPO). </p>
+<p>I graduated from the University of Chicago in Philosophy and completed a Postbaccalaureate in Premedicine at Harvard. I am a Certified ScrumMaster (CSM) and Certified Scrum Product Owner (CSPO). </p>
 <p>&nbsp;</p>
 <h1>Notable Projects</h1>
 <h3>Controlled Substances Teleprescribing Algorithm</h3>
