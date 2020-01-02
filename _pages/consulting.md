@@ -12,6 +12,7 @@ post_date: 2019-01-25 07:15:37
 <p>&nbsp;</p>
 <p><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/consulting-2204253_1920.png"><img class="wp-image-697 alignnone" src="http://www.harishlingam.com/wp-content/uploads/2019/01/consulting-2204253_1920-300x200.png" alt="" width="595" height="396" /></a></p>
 <h1>Consulting</h1>
+<p><a href="http://www.harishlingam.com/wp-content/uploads/2020/01/LingamConsultingLogo.jpg"><img class="alignnone  wp-image-804" src="http://www.harishlingam.com/wp-content/uploads/2020/01/LingamConsultingLogo-300x122.jpg" alt="" width="185" height="75" /></a></p>
 <p>I work with entrepreneurs to refine product strategy, perform customer research, assess competitive landscape, validate product features, and implement product management best practices. I also consult for individuals and organizations on issues relevant to digital health, healthcare operations, and regulatory compliance. Reach out through <a href="http://www.harishlingam.com/contact-me/">my contact form</a> to discuss how we can work together.</p>
 <table>
 <tbody>
@@ -69,3 +70,5 @@ post_date: 2019-01-25 07:15:37
 <div> </div>
 <div>Harish writes about innovative technologies in behavioral health on his blog. He holds a degree in Philosophy from the University of Chicago and finished a postbaccalaureate in premedicine at Harvard. He is a Full Stack Certified Product Manager (FCPM) via Product School, Certified ScrumMaster (CSM), and Certified Scrum Product Owner (CSPO).</div>
 <!-- /wp:fl-builder/layout -->
+<p>&nbsp;</p>
+<p>&nbsp;</p>
