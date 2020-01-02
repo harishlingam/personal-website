@@ -18,24 +18,24 @@ post_date: 2019-01-25 07:15:37
 <tbody>
 <tr>
 <td width="312">
-<p><a href="http://www.harishlingam.com/wp-content/uploads/2019/06/ata-logo.png"><img class=" wp-image-777 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2019/06/ata-logo.png" alt="" width="86" height="72" /></a></p>
+<p><a href="http://www.harishlingam.com/wp-content/uploads/2019/06/ata-logo.png"><img class=" wp-image-777 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2019/06/ata-logo.png" alt="" width="78" height="65" /></a></p>
 </td>
 <td width="312">
-<p><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/navigant.png"><img class=" wp-image-383 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2019/01/navigant-300x169.png" alt="" width="206" height="116" /></a></p>
-</td>
-</tr>
-<tr>
-<td width="312"><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/harvard-logo.png"><img class="wp-image-594 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2019/01/harvard-logo-300x100.png" alt="" width="222" height="74" /></a></td>
-<td width="312">
-<p><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/promontory.jpg"><img class=" wp-image-385 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2019/01/promontory-300x156.jpg" alt="" width="166" height="87" /></a></p>
+<p><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/navigant.png"><img class=" wp-image-383 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2019/01/navigant-300x169.png" alt="" width="183" height="103" /></a></p>
 </td>
 </tr>
 <tr>
+<td width="312"><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/harvard-logo.png"><img class="wp-image-594 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2019/01/harvard-logo-300x100.png" alt="" width="180" height="60" /></a></td>
 <td width="312">
-<p><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/addicaid.png"><img class=" wp-image-380 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2019/01/addicaid-300x102.png" alt="" width="171" height="58" /></a></p>
+<p><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/promontory.jpg"><img class=" wp-image-385 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2019/01/promontory-300x156.jpg" alt="" width="133" height="69" /></a></p>
+</td>
+</tr>
+<tr>
+<td width="312">
+<p><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/addicaid.png"><img class=" wp-image-380 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2019/01/addicaid-300x102.png" alt="" width="153" height="52" /></a></p>
 </td>
 <td width="312">
-<p><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/chicagomed.png"><img class=" wp-image-386 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2019/01/chicagomed-300x107.png" alt="" width="193" height="69" /></a></p>
+<p><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/chicagomed.png"><img class=" wp-image-386 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2019/01/chicagomed-300x107.png" alt="" width="171" height="61" /></a></p>
 </td>
 </tr>
 </tbody>
