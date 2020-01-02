@@ -13,7 +13,7 @@ post_date: 2019-01-25 07:15:37
 <p><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/consulting-2204253_1920.png"><img class="wp-image-697 alignnone" src="http://www.harishlingam.com/wp-content/uploads/2019/01/consulting-2204253_1920-300x200.png" alt="" width="595" height="396" /></a></p>
 <h1>Consulting</h1>
 <p><a href="http://www.harishlingam.com/wp-content/uploads/2020/01/LingamConsultingLogo.jpg"><img class="alignnone  wp-image-804" src="http://www.harishlingam.com/wp-content/uploads/2020/01/LingamConsultingLogo-300x122.jpg" alt="" width="185" height="75" /></a></p>
-<p>I work with entrepreneurs to refine product strategy, perform customer research, assess competitive landscape, validate product features, and implement product management best practices. I also consult for individuals and organizations on issues relevant to digital health, healthcare operations, and regulatory compliance. Reach out through <a href="http://www.harishlingam.com/contact-me/">my contact form</a> to discuss how we can work together.</p>
+<p>I work with entrepreneurs to refine product strategy, perform customer research, assess competitive landscape, validate product features, and implement product management best practices. I also consult to individuals and organizations on issues relevant to digital health, healthcare operations, and regulatory compliance. Reach out through <a href="http://www.harishlingam.com/contact-me/">my contact form</a> to discuss how we can work together.</p>
 <table>
 <tbody>
 <tr>
@@ -66,7 +66,7 @@ post_date: 2019-01-25 07:15:37
 </ul>
 <p>&nbsp;</p>
 <h2>Bio</h2>
-<div>Harish Lingam is a product manager and healthcare consultant who partners with CEOs, organizations, and entrepreneurs to support strategic and operational goals.</div>
+<div>Harish Lingam is a product manager and healthcare consultant who partners with CEOs, organizations, and entrepreneurs to support their strategic and operational goals.</div>
 <div> </div>
 <div>Harish served as Interim COO and business development lead at Addicaid, an enterprise and mobile analytics solution for individuals in addiction recovery. He has consulted extensively in the healthcare/telemedicine space and he is a subject matter expert in the areas of telehealth practice development and online prescribing issues related to controlled substances, including federal, state, and state medical board compliance. Previously, he focused on performance improvement initiatives at mid to large-scale healthcare providers and on compliance and risk management solutions for regional US and global financial services institutions. His technology experience includes agile software development, product strategy, data analytics, metrics management, UI/UX, project management, and cross-functional management.</div>
 <div> </div>
