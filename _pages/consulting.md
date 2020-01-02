@@ -66,9 +66,11 @@ post_date: 2019-01-25 07:15:37
 </ul>
 <p>&nbsp;</p>
 <h2>Bio</h2>
-<div>Harish Lingam is a product manager and healthcare consultant who partners with CEOs, executives, and entrepreneurs to support their strategic and operational goals. Harish served as Interim COO and business development lead at Addicaid, an enterprise and mobile analytics solution for individuals in addiction recovery. Prior to that, his worked focused on healthcare performance improvement initiatives at mid to large-scale providers and financial services forensic consulting. Passionate about the cause of better behavioral health, Harish founded Laughing Matters, a 501(c)3 startup aimed to deliver free-of-cost comedy workshops and shows to hospitals and long-term care residents.</div>
+<div>Harish Lingam is a product manager and healthcare consultant who partners with CEOs, organizations, and entrepreneurs to support strategic and operational goals.</div>
 <div> </div>
-<div>Harish writes about innovative technologies in behavioral health on his blog. He holds a degree in Philosophy from the University of Chicago and finished a postbaccalaureate in premedicine at Harvard. He is a Full Stack Certified Product Manager (FCPM) via Product School, Certified ScrumMaster (CSM), and Certified Scrum Product Owner (CSPO).</div>
+<div>Harish served as Interim COO and business development lead at Addicaid, an enterprise and mobile analytics solution for individuals in addiction recovery. He has consulted extensively in the healthcare/telemedicine space and he is a subject matter expert in the areas of telehealth practice development and online prescribing issues related to controlled substances, including federal, state, and state medical board compliance. Previously, he focused on performance improvement initiatives at mid to large-scale healthcare providers and on compliance and risk management solutions for regional US and global financial services institutions. His technology experience includes agile software development, product strategy, data analytics, metrics management, UI/UX, project management, and cross-functional management.</div>
+<div> </div>
+<div>Harish holds a degree in Philosophy from the University of Chicago and he completed a Postbaccalaureate in Premedicine at Harvard. He has trained extensively in the areas of product management, data analytics, and web development, including the full-stack immersive program at Product School, and he is a Certified ScrumMaster (CSM) and Certified Scrum Product Owner (CSPO) through Agile Alliance.</div>
 <!-- /wp:fl-builder/layout -->
 <p>&nbsp;</p>
 <p>&nbsp;</p>
