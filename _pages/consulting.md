@@ -70,7 +70,7 @@ post_date: 2019-01-25 07:15:37
 <div> </div>
 <div>Harish served as COO and Head of Business Development at Addicaid, an enterprise and mobile analytics solution for individuals in addiction recovery. He has consulted extensively in the healthcare/telemedicine space, and he is a subject matter expert in the areas of telehealth practice development and online prescribing issues related to controlled substances, including federal and state law compliance. Previously, he focused on performance improvement initiatives for mid to large-scale healthcare providers and on compliance and risk management solutions for regional U.S. and global financial services institutions. His technology expertise includes agile software development, product strategy, data analytics, metrics management, UI/UX, project management, and cross-functional management.</div>
 <div> </div>
-<div>Harish holds a degree in Philosophy from the University of Chicago and completed a Postbaccalaureate in Premedicine at Harvard. He has trained extensively in the areas of product management, data analytics, and web development, including the full-stack immersive program at Product School, and he is a Certified ScrumMaster (CSM) and Certified Scrum Product Owner (CSPO) through Agile Alliance.</div>
+<div>Harish holds a degree in Philosophy from the University of Chicago and completed a Postbaccalaureate in Premedicine at Harvard. He has worked extensively in the areas of product management, data analytics, and web development, and he is a Certified ScrumMaster (CSM) and Certified Scrum Product Owner (CSPO) through Agile Alliance.</div>
 <!-- /wp:fl-builder/layout -->
 <p>&nbsp;</p>
 <p>&nbsp;</p>
