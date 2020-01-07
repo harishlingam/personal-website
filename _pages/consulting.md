@@ -38,7 +38,7 @@ post_date: 2019-01-25 07:15:37
 </tr>
 </tbody>
 </table>
-<h2> </h2>
+<p>&nbsp;</p>
 <h2>Services</h2>
 <p>My past client engagements have included work in the following areas:</p>
 <h5>Product</h5>
