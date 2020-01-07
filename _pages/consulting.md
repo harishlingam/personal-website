@@ -27,12 +27,12 @@ post_date: 2019-01-25 07:15:37
 <tr>
 <td width="312"><a href="http://www.harishlingam.com/wp-content/uploads/2020/01/harvard_grayed.jpg"><img class="wp-image-826 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2020/01/harvard_grayed-300x81.jpg" alt="" width="189" height="51" /></a></td>
 <td width="312">
-<p style="text-align: center;"><a href="http://www.harishlingam.com/wp-content/uploads/2020/01/promontoryfinancialgroup_grayed.jpg"><img class="alignnone  wp-image-828" src="http://www.harishlingam.com/wp-content/uploads/2020/01/promontoryfinancialgroup_grayed-300x156.jpg" alt="" width="165" height="86" /></a><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/promontory.jpg"><br /></a></p>
+<p style="text-align: center;"><a href="http://www.harishlingam.com/wp-content/uploads/2020/01/promontoryfinancialgroup_grayed.jpg"><img class="wp-image-828 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2020/01/promontoryfinancialgroup_grayed-300x156.jpg" alt="" width="165" height="86" /></a><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/promontory.jpg"><br /></a></p>
 </td>
 </tr>
 <tr>
 <td width="312">
-<p style="text-align: left;"><a href="http://www.harishlingam.com/wp-content/uploads/2020/01/addicaid_grayed.jpg"><img class=" wp-image-831 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2020/01/addicaid_grayed-300x103.jpg" alt="" width="177" height="61" /></a><a href="http://www.harishlingam.com/wp-content/uploads/2020/01/addicaid_grayed.jpg"><br /></a></p>
+<p style="text-align: left;"><a href="http://www.harishlingam.com/wp-content/uploads/2020/01/addicaid_grayed.jpg"><img class=" wp-image-831 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2020/01/addicaid_grayed-300x103.jpg" alt="" width="177" height="61" /></a></p>
 </td>
 <td width="312">
 <p><a href="http://www.harishlingam.com/wp-content/uploads/2020/01/uchicagomedicine_grayed.jpg"><img class="wp-image-829 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2020/01/uchicagomedicine_grayed-300x107.jpg" alt="" width="182" height="65" /></a></p>
