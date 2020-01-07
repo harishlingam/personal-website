@@ -21,7 +21,7 @@ post_date: 2019-01-25 07:15:37
 <p><a href="http://www.harishlingam.com/wp-content/uploads/2020/01/ata_grayed.jpg"><img class=" wp-image-825 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2020/01/ata_grayed.jpg" alt="" width="82" height="69" /></a></p>
 </td>
 <td width="312">
-<p style="text-align: center;"><a href="http://www.harishlingam.com/wp-content/uploads/2020/01/navigant_grayed.jpg"><img class="wp-image-827 alignright" src="http://www.harishlingam.com/wp-content/uploads/2020/01/navigant_grayed-300x69.jpg" alt="" width="179" height="41" /></a></p>
+<p style="text-align: center;"><a href="http://www.harishlingam.com/wp-content/uploads/2020/01/navigant_grayed.jpg"><img class="wp-image-827 alignnone" src="http://www.harishlingam.com/wp-content/uploads/2020/01/navigant_grayed-300x69.jpg" alt="" width="175" height="40" /></a></p>
 </td>
 </tr>
 <tr>
