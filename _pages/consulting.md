@@ -20,14 +20,12 @@ post_date: 2019-01-25 07:15:37
 <td width="312">
 <p><a href="http://www.harishlingam.com/wp-content/uploads/2020/01/ata_grayed.jpg"><img class=" wp-image-825 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2020/01/ata_grayed.jpg" alt="" width="82" height="69" /></a></p>
 </td>
-<td width="312">
-<p style="text-align: center;"><a href="http://www.harishlingam.com/wp-content/uploads/2020/01/navigant_grayed.jpg"><img class="wp-image-827 alignnone" src="http://www.harishlingam.com/wp-content/uploads/2020/01/navigant_grayed-300x69.jpg" alt="" width="175" height="40" /></a></p>
-</td>
+<td width="312"><a href="http://www.harishlingam.com/wp-content/uploads/2020/01/navigant_grayed.jpg"><img class=" wp-image-827 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2020/01/navigant_grayed-300x69.jpg" alt="" width="165" height="38" /></a></td>
 </tr>
 <tr>
 <td width="312"><a href="http://www.harishlingam.com/wp-content/uploads/2020/01/harvard_grayed.jpg"><img class="wp-image-826 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2020/01/harvard_grayed-300x81.jpg" alt="" width="189" height="51" /></a></td>
 <td width="312">
-<p style="text-align: center;"><a href="http://www.harishlingam.com/wp-content/uploads/2020/01/promontoryfinancialgroup_grayed.jpg"><img class="wp-image-828 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2020/01/promontoryfinancialgroup_grayed-300x156.jpg" alt="" width="165" height="86" /></a><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/promontory.jpg"><br /></a></p>
+<p style="text-align: center;"><a href="http://www.harishlingam.com/wp-content/uploads/2020/01/promontoryfinancialgroup_grayed.jpg"><img class="wp-image-828 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2020/01/promontoryfinancialgroup_grayed-300x156.jpg" alt="" width="165" height="86" /></a></p>
 </td>
 </tr>
 <tr>
