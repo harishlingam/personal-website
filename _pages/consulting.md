@@ -12,7 +12,7 @@ post_date: 2019-01-25 07:15:37
 <p>&nbsp;</p>
 <p><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/consulting-2204253_1920.png"><img class="wp-image-697 alignnone" src="http://www.harishlingam.com/wp-content/uploads/2019/01/consulting-2204253_1920-300x200.png" alt="" width="595" height="396" /></a></p>
 <h1>Consulting</h1>
-<p>&nbsp;</p>
+<p><a href="http://www.harishlingam.com/wp-content/uploads/2020/01/LingamConsultingLogo-v2.jpg"><img class="wp-image-839 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2020/01/LingamConsultingLogo-v2-300x120.jpg" alt="" width="201" height="80" /></a></p>
 <p>I work with entrepreneurs to refine product strategy, perform customer research, assess competitive landscape, validate product features, and implement product management best practices. I also consult to individuals and organizations on issues relevant to digital health, healthcare operations, and regulatory compliance. Reach out through <a href="http://www.harishlingam.com/contact-me/">my contact form</a> to discuss how we can work together.</p>
 <table>
 <tbody>
@@ -23,7 +23,7 @@ post_date: 2019-01-25 07:15:37
 <td width="312"><a href="http://www.harishlingam.com/wp-content/uploads/2020/01/navigant_grayed.jpg"><img class=" wp-image-827 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2020/01/navigant_grayed-300x69.jpg" alt="" width="165" height="38" /></a></td>
 </tr>
 <tr>
-<td width="312"><a href="http://www.harishlingam.com/wp-content/uploads/2020/01/harvard_grayed.jpg"><img class="wp-image-826 alignleft" src="http://www.harishlingam.com/wp-content/uploads/2020/01/harvard_grayed-300x81.jpg" alt="" width="189" height="51" /></a><a href="http://www.harishlingam.com/wp-content/uploads/2020/01/LingamConsultingLogo-v2.jpg"><img class="wp-image-839 alignright" src="http://www.harishlingam.com/wp-content/uploads/2020/01/LingamConsultingLogo-v2-300x120.jpg" alt="" width="201" height="80" /></a></td>
+<td width="312"><a href="http://www.harishlingam.com/wp-content/uploads/2020/01/harvard_grayed.jpg"><img class="wp-image-826 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2020/01/harvard_grayed-300x81.jpg" alt="" width="189" height="51" /></a></td>
 <td width="312">
 <p style="text-align: center;"><a href="http://www.harishlingam.com/wp-content/uploads/2020/01/promontoryfinancialgroup_grayed.jpg"><img class="wp-image-828 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2020/01/promontoryfinancialgroup_grayed-300x156.jpg" alt="" width="165" height="86" /></a></p>
 </td>
