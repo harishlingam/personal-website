@@ -70,5 +70,3 @@ post_date: 2019-01-25 07:15:37
 <div> </div>
 <div>Harish holds a degree in Philosophy from the University of Chicago and completed a Postbaccalaureate in Premedicine at Harvard. He has worked extensively in the areas of product management, data analytics, and web development, and he is a Certified ScrumMaster (CSM) and Certified Scrum Product Owner (CSPO) through Agile Alliance.</div>
 <!-- /wp:fl-builder/layout -->
-<p>&nbsp;</p>
-<p>&nbsp;</p>
