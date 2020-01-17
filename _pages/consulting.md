@@ -41,7 +41,7 @@ post_date: 2019-01-25 07:15:37
 <p>&nbsp;</p>
 <h4><span style="color: #000000;">Services</span></h4>
 <p>My past client engagements have included work in the following areas:</p>
-<h4 style="text-align: center;"><span style="color: #33cccc;">Product</span></h4>
+<p style="text-align: center;"><span style="color: #33cccc;">Product</span></p>
 <ul>
 <li>Create or assess your digital product’s strategy.</li>
 <li>Run design sprints with your team using Agile Scrum methodology.</li>
@@ -49,13 +49,13 @@ post_date: 2019-01-25 07:15:37
 <li>Improve your existing or new services through a gap analysis of how they should be implemented.</li>
 <li>Run experiments to validate your product and feature set.</li>
 </ul>
-<h6 style="text-align: center;"><span style="color: #33cccc;">Strategy</span></h6>
+<p style="text-align: center;"><span style="color: #33cccc;">Strategy</span></p>
 <ul>
 <li>Execute competitive landscape analysis to assess market opportunity and inform product development in a defined area.</li>
 <li>Develop a comprehensive strategic plan based on financial modeling and a sound understanding of company vision, mission, and values.</li>
 <li>Evaluate product market segmentation and identify appropriate customer channels to best serve these segments.</li>
 </ul>
-<h6 style="text-align: center;"><span style="color: #33cccc;">Operations</span></h6>
+<p style="text-align: center;"><span style="color: #33cccc;">Operations</span></p>
 <ul>
 <li>Implement operational best practices across project management and product management.</li>
 <li>Assess the business development function and introduce strategies for B2B and B2C lead generation and sales based on product type and target customer.</li>
@@ -63,7 +63,7 @@ post_date: 2019-01-25 07:15:37
 <li>Implement productivity tools, including Asana, OmniFocus, Trello, and Slack, and discuss ways to stack these tools to optimize company operations.</li>
 </ul>
 <p>&nbsp;</p>
-<h4><span style="color: #000000;">Bio</span></h4>
+<h6><span style="color: #000000;">Bio</span></h6>
 <div>Harish Lingam is a product manager and healthcare consultant who partners with CEOs, organizations, and entrepreneurs to support their strategic and operational goals.</div>
 <div> </div>
 <div>Harish served as COO and Head of Business Development at Addicaid, an enterprise and mobile analytics solution for individuals in addiction recovery. He has consulted extensively in the healthcare/telemedicine space, and he is a subject matter expert in the areas of telehealth practice development and online prescribing issues related to controlled substances, including federal and state law compliance. Previously, he focused on performance improvement initiatives for mid to large-scale healthcare providers and on compliance and risk management solutions for regional U.S. and global financial services institutions. His technology expertise includes agile software development, product strategy, data analytics, metrics management, UI/UX, project management, and cross-functional management.</div>
