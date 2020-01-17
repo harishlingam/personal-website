@@ -39,7 +39,7 @@ post_date: 2019-01-25 07:15:37
 </tbody>
 </table>
 <p>&nbsp;</p>
-<h4><span style="color: #808080;">Services</span></h4>
+<h4><span style="color: #000000;">Services</span></h4>
 <p>My past client engagements have included work in the following areas:</p>
 <h6 style="text-align: center;"><span style="color: #99ccff;">Product</span></h6>
 <ul>
@@ -63,7 +63,7 @@ post_date: 2019-01-25 07:15:37
 <li>Implement productivity tools, including Asana, OmniFocus, Trello, and Slack, and discuss ways to stack these tools to optimize company operations.</li>
 </ul>
 <p>&nbsp;</p>
-<h5><span style="color: #808080;">BIO</span></h5>
+<h4><span style="color: #000000;">Bio</span></h4>
 <div>Harish Lingam is a product manager and healthcare consultant who partners with CEOs, organizations, and entrepreneurs to support their strategic and operational goals.</div>
 <div> </div>
 <div>Harish served as COO and Head of Business Development at Addicaid, an enterprise and mobile analytics solution for individuals in addiction recovery. He has consulted extensively in the healthcare/telemedicine space, and he is a subject matter expert in the areas of telehealth practice development and online prescribing issues related to controlled substances, including federal and state law compliance. Previously, he focused on performance improvement initiatives for mid to large-scale healthcare providers and on compliance and risk management solutions for regional U.S. and global financial services institutions. His technology expertise includes agile software development, product strategy, data analytics, metrics management, UI/UX, project management, and cross-functional management.</div>
