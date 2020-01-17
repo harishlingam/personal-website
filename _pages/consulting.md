@@ -41,7 +41,7 @@ post_date: 2019-01-25 07:15:37
 <p>&nbsp;</p>
 <h3><span style="color: #ff9900;">Services</span></h3>
 <p style="text-align: left;">My past client engagements have included work in the following areas:</p>
-<pre style="text-align: center;"><span style="color: #99ccff;">Product</span></pre>
+<h6 style="text-align: center;"><span style="color: #99ccff;">Product</span></h6>
 <ul>
 <li>Create or assess your digital product’s strategy.</li>
 <li>Run design sprints with your team using Agile/Scrum methodology.</li>
@@ -49,13 +49,13 @@ post_date: 2019-01-25 07:15:37
 <li>Improve your existing or new services through a gap analysis of how they should be implemented.</li>
 <li>Run experiments to validate your product and feature set.</li>
 </ul>
-<pre style="text-align: center;"><span style="color: #99ccff;">Strategy</span></pre>
+<h6 style="text-align: center;"><span style="color: #99ccff;">Strategy</span></h6>
 <ul>
 <li>Execute competitive landscape analysis to assess market opportunity and inform product development in a defined area.</li>
 <li>Develop a comprehensive strategic plan based on financial modeling and a sound understanding of company vision, mission, and values.</li>
 <li>Evaluate product market segmentation and identify appropriate customer channels to best serve these segments.</li>
 </ul>
-<pre style="text-align: center;"><span style="color: #99ccff;">Operations</span></pre>
+<h6 style="text-align: center;"><span style="color: #99ccff;">Operations</span></h6>
 <ul>
 <li>Implement operational best practices across project management and product management.</li>
 <li>Assess the business development function and introduce strategies for B2B and B2C lead generation and sales based on product type and target customer.</li>
