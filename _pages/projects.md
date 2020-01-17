@@ -38,7 +38,7 @@ post_date: 2019-01-25 07:15:37
 </tbody>
 </table>
 <p>&nbsp;</p>
-<h3>Addicaid</h3>
+<h6>Addicaid</h6>
 <p>I lead operations and business development at Addicaid, a B2B2C technology startup offering a mobile and enterprise SaaS for addiction treatment management. I worked with the CEO to implement product management best practices, which maintained Addicaid as the #1 addiction app during its tenure on the iOS App Store. Addicaid was a finalist in the Forum on Healthcare Innovation's <a href="https://www.prnewswire.com/news-releases/finalists-announced-in-harvard-business-school-harvard-medical-school-health-acceleration-challenge-300312432.html">Healthcare Innovation Challenge,</a> co-recipient of the Harvard Business School-Harvard Medical School <a href="https://www.hbs.edu/news/releases/Pages/carrum-health-wins-health-acceleration-challenge.aspx?cid=spmailing-17652230-HCI-FHI.2016.11.13.HAC.Announcement%20of%20Winner%20Denise%20Collins%2011/13/2017%204:07%20PM-November%2013,%202017">Cox Prize,</a> and a finalist in a 2017 Google VR/AI Startup Challenge. | <a href="https://www.huffingtonpost.com/craig-newmark/10-women-led-vr-and-ai-st_b_14056536.html">Huffington Post</a> | <a href="https://money.cnn.com/2017/04/25/technology/tech-versus-taboos-addiction/index.html">CNN Business</a></p>
 <table>
 <tbody>
@@ -61,7 +61,7 @@ post_date: 2019-01-25 07:15:37
 </tbody>
 </table>
 <h3> </h3>
-<h3>WordNugget</h3>
+<h6>WordNugget</h6>
 <p>Children born into poverty hear about <a href="https://cri.uchicago.edu/portfolio/thirty-million-words/">30 million fewer words</a> than wealthy children, a disparity troubling given the strong relationship between what children experience at home and how they develop social, emotional, and literacy skills for life. As 1st place finisher at the AT&amp;T Mobile App Hackathon, I co-developed WordNugget, a service that sends parents of infants and toddlers messages about kindergarten readiness skills through Internet-based messaging services. | <a href="https://developer.att.com/blog/chicago-hackathon-recap-disruptive-apps">AT&amp;T</a> | <a href="https://tmwcenter.uchicago.edu">Thirty Million Words Initiative</a></p>
 <table>
 <tbody>
@@ -83,7 +83,7 @@ post_date: 2019-01-25 07:15:37
 </tr>
 </tbody>
 </table>
-<h3>Laughing Matters</h3>
+<h6>Laughing Matters</h6>
 <p>Comedy has been shown to boost the outcomes of conventional therapeutic approaches (see <a href="https://hub.jhu.edu/magazine/2016/summer/humor-therapy-nursing-medicine/">Johns Hopkins Magazine</a>, <a href="https://www.tandfonline.com/doi/full/10.1080/09638237.2017.1340629?scroll=top&amp;needAccess=true">Kreuger et. al.</a>, and <a href="https://www.theatlantic.com/health/archive/2015/09/comedy-improv-anxiety/403933/">The Atlantic</a>). I founded the 501(c)3 organization <a href="http://www.laughingmatters.org">Laughing Matters</a> to deliver interactive comedy shows to residents of ambulatory care, long-term care, and acute care settings. Separate from my administrative and executive duties, I managed development of the organization's desktop and mobile web site, including graphic identity, UI/UX, and front and back-end development.</p>
 <table style="height: 427px;" width="641">
 <tbody>
