@@ -13,7 +13,6 @@ post_date: 2019-01-25 07:15:37
 <p><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/consulting-2204253_1920.png"><img class="wp-image-697 alignnone" src="http://www.harishlingam.com/wp-content/uploads/2019/01/consulting-2204253_1920-300x200.png" alt="" width="595" height="396" /></a></p>
 <p><a href="http://www.harishlingam.com/wp-content/uploads/2020/01/LingamConsultingLogo-v2.jpg"><img class="wp-image-839 alignleft" src="http://www.harishlingam.com/wp-content/uploads/2020/01/LingamConsultingLogo-v2-300x120.jpg" alt="" width="186" height="74" /></a></p>
 <p>I work with entrepreneurs to refine product strategy, perform customer research, assess competitive landscape, validate product features, and implement product management best practices. I also consult to individuals and organizations on issues relevant to digital health, healthcare operations, and regulatory compliance. Reach out through <a href="http://www.harishlingam.com/contact-me/">my contact form</a> to discuss how we can work together.</p>
-<p>&nbsp;</p>
 <table>
 <tbody>
 <tr>
