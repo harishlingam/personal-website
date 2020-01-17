@@ -40,7 +40,7 @@ post_date: 2019-01-25 07:15:37
 </table>
 <p>&nbsp;</p>
 <h3><span style="color: #ff9900;">Services</span></h3>
-<p style="text-align: center;">Past client engagements have included work in the following areas:</p>
+<p style="text-align: left;">Past client engagements have included work in the following areas:</p>
 <h6 style="text-align: center;"><span style="color: #333333;">Product</span></h6>
 <ul>
 <li>Create or assess your digital product’s strategy.</li>
