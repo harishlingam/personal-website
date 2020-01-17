@@ -15,7 +15,7 @@ post_date: 2019-01-25 07:15:37
 <p>I graduated from the University of Chicago in Philosophy and completed a Postbaccalaureate in Premedicine at Harvard. I am a Certified ScrumMaster (CSM) and Certified Scrum Product Owner (CSPO). </p>
 <p>&nbsp;</p>
 <h3>Notable Projects</h3>
-<h6>Controlled Substances Teleprescribing Algorithm</h6>
+<h6><span style="color: #ff0000;">Controlled Substances Teleprescribing Algorithm</span></h6>
 <p>Legal liability concerns rank among the top organizational barriers to telemedicine adoption (see <a href="https://journals.sagepub.com/doi/pdf/10.1177/1357633X16674087">Kruse et. al.</a>). Such concerns extend to the internet prescribing of controlled substances, including medication-assisted treatment of opioid use disorders. These concerns stem from the complex web of federal and state regulations that govern teleprescribing of controlled substances. To assist practitioners navigate such laws, I performed a multi-method qualitative analysis of the <a href="https://www.govinfo.gov/content/pkg/BILLS-110hr6353enr/pdf/BILLS-110hr6353enr.pdf">Ryan Haight Online Pharmacy Consumer Protection Act</a> and state telemedicine laws to design an algorithm for teleprescribing controlled substances (publication forthcoming) and presented a version of this algorithm at the American Telemedicine Association's conference course, <a href="http://www.ata2017.org/home/pre-meeting-certificate-course/">Addiction Treatment in the Era of the Ryan Haight Act</a>.</p>
 <table>
 <tbody>
