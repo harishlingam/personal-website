@@ -41,7 +41,7 @@ post_date: 2019-01-25 07:15:37
 <p>&nbsp;</p>
 <h5><span style="color: #808080;">SERVICES</span></h5>
 <p>My past client engagements have included work in the following areas:</p>
-<p style="text-align: center;"><span style="color: #99ccff;">Product</span></p>
+<h6 style="text-align: center;"><span style="color: #99ccff;">Product</span></h6>
 <ul>
 <li>Create or assess your digital product’s strategy.</li>
 <li>Run design sprints with your team using Agile Scrum methodology.</li>
