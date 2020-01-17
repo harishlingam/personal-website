@@ -39,7 +39,7 @@ post_date: 2019-01-25 07:15:37
 </tbody>
 </table>
 <p>&nbsp;</p>
-<h5><span style="color: #808080;">SERVICES</span></h5>
+<h4><span style="color: #808080;">Services</span></h4>
 <p>My past client engagements have included work in the following areas:</p>
 <h6 style="text-align: center;"><span style="color: #99ccff;">Product</span></h6>
 <ul>
