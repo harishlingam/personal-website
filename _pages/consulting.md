@@ -44,7 +44,7 @@ post_date: 2019-01-25 07:15:37
 <h6 style="text-align: center;"><span style="color: #333333;">Product</span></h6>
 <ul>
 <li>Create or assess your digital product’s strategy.</li>
-<li>Run design sprints with your team using Agile Scrum methodology.</li>
+<li>Run design sprints with your team using Agile/Scrum methodology.</li>
 <li>Interview your customers and document their journeys through your product.</li>
 <li>Improve your existing or new services through a gap analysis of how they should be implemented.</li>
 <li>Run experiments to validate your product and feature set.</li>
