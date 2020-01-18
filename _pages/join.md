@@ -1,6 +1,6 @@
 ---
 ID: 19
-post_title: ""
+post_title: Join
 author: admin
 post_excerpt: ""
 layout: page
