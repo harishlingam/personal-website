@@ -39,7 +39,7 @@ post_date: 2019-01-25 07:15:37
 </table>
 <h3> </h3>
 <h3 style="text-align: center;"><span style="color: #ff9900;">Where can I help you?</span></h3>
-<h6 style="text-align: left;"><span style="color: #333333;">Product</span></h6>
+<h6 style="text-align: center;"><span style="color: #333333;">Product</span></h6>
 <ol>
 <li>Create or assess your digital product’s strategy.</li>
 <li>Run design sprints with your team using Agile/Scrum methodology.</li>
@@ -47,13 +47,13 @@ post_date: 2019-01-25 07:15:37
 <li>Improve your existing or new services through a gap analysis of how they should be implemented.</li>
 <li>Run experiments to validate your product and feature set.</li>
 </ol>
-<h6 style="text-align: left;"><span style="color: #333333;">Strategy</span></h6>
+<h6 style="text-align: center;"><span style="color: #333333;">Strategy</span></h6>
 <ol>
 <li>Execute competitive landscape analysis to assess market opportunity and inform product development in a defined area.</li>
 <li>Develop a comprehensive strategic plan based on financial modeling and a sound understanding of company vision, mission, and values.</li>
 <li>Evaluate product market segmentation and identify appropriate customer channels to best serve these segments.</li>
 </ol>
-<h6 style="text-align: left;"><span style="color: #333333;">Operations</span></h6>
+<h6 style="text-align: center;"><span style="color: #333333;">Operations</span></h6>
 <ol>
 <li>Implement operational best practices across project management and product management.</li>
 <li>Assess the business development function and introduce strategies for B2B and B2C lead generation and sales based on product type and target customer.</li>
