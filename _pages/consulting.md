@@ -45,10 +45,12 @@ post_date: 2019-01-25 07:15:37
 <p>Interview your customers and document their journeys through your product.</p>
 <p>Improve your existing or new services through a gap analysis of how they should be implemented.</p>
 <p>Run experiments to validate your product and feature set.</p>
+<h6> </h6>
 <h6 style="text-align: left;"><span style="color: #333333;">Strategy</span></h6>
 <p>Execute competitive landscape analysis to assess market opportunity and inform product development in a defined area.</p>
 <p>Develop a comprehensive strategic plan based on financial modeling and a sound understanding of company vision, mission, and values.</p>
 <p>Evaluate product market segmentation and identify appropriate customer channels to best serve these segments.</p>
+<h6> </h6>
 <h6 style="text-align: left;"><span style="color: #333333;">Operations</span></h6>
 <p>Implement operational best practices across project management and product management.</p>
 <p>Assess the business development function and introduce strategies for B2B and B2C lead generation and sales based on product type and target customer.</p>
