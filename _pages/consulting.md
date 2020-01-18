@@ -13,7 +13,7 @@ post_date: 2019-01-25 07:15:37
 <p><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/consulting-2204253_1920.png"><img class="wp-image-697 alignnone" src="http://www.harishlingam.com/wp-content/uploads/2019/01/consulting-2204253_1920-300x200.png" alt="" width="595" height="396" /></a></p>
 <p>I work with entrepreneurs and organizations to refine product strategy, perform customer research, assess competitive landscape, validate product features, and implement product management best practices. I also consult to individuals and organizations on issues relevant to digital health, healthcare operations, and regulatory compliance. Reach out through <a href="http://www.harishlingam.com/contact-me/">my contact form</a> to discuss how we can work together.</p>
 <h3> </h3>
-<h3 style="text-align: left;"><span style="color: #ff9900;">Solutions delivered</span></h3>
+<h3 style="text-align: left;"><em><span style="color: #ff9900;">SOLUTIONS DELIVERED.</span></em></h3>
 <h6 style="text-align: left;"><span style="color: #333333;">Product</span></h6>
 <p>- Create or assess a company's digital product strategy.</p>
 <p>- Run design sprints with the team using Agile/Scrum methodology.</p>
