@@ -11,7 +11,7 @@ post_date: 2019-01-25 07:15:37
 <!-- wp:fl-builder/layout -->
 <p>&nbsp;</p>
 <p><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/consulting-2204253_1920.png"><img class="wp-image-697 alignnone" src="http://www.harishlingam.com/wp-content/uploads/2019/01/consulting-2204253_1920-300x200.png" alt="" width="595" height="396" /></a></p>
-<p><a href="http://www.harishlingam.com/wp-content/uploads/2020/01/LingamConsultingLogo-v2.jpg"><img class="wp-image-839 alignleft" src="http://www.harishlingam.com/wp-content/uploads/2020/01/LingamConsultingLogo-v2-300x120.jpg" alt="" width="181" height="72" /></a></p>
+<p>&nbsp;</p>
 <p>I work with entrepreneurs and organizations to refine product strategy, perform customer research, assess competitive landscape, validate product features, and implement product management best practices. I also consult to individuals and organizations on issues relevant to digital health, healthcare operations, and regulatory compliance. Reach out through <a href="http://www.harishlingam.com/contact-me/">my contact form</a> to discuss how we can work together.</p>
 <p>&nbsp;</p>
 <table>
@@ -41,7 +41,7 @@ post_date: 2019-01-25 07:15:37
 <p>&nbsp;</p>
 <h3><span style="color: #ff9900;">Services</span></h3>
 <p style="text-align: left;">My past client engagements have included work in the following areas:</p>
-<h6 style="text-align: center;"><span style="color: #333333;">Product</span></h6>
+<h5 style="text-align: center;"><span style="color: #333333;">Product</span></h5>
 <ul>
 <li>Create or assess your digital product’s strategy.</li>
 <li>Run design sprints with your team using Agile/Scrum methodology.</li>
@@ -49,13 +49,13 @@ post_date: 2019-01-25 07:15:37
 <li>Improve your existing or new services through a gap analysis of how they should be implemented.</li>
 <li>Run experiments to validate your product and feature set.</li>
 </ul>
-<h6 style="text-align: center;"><span style="color: #333333;">Strategy</span></h6>
+<h5 style="text-align: center;"><span style="color: #333333;">Strategy</span></h5>
 <ul>
 <li>Execute competitive landscape analysis to assess market opportunity and inform product development in a defined area.</li>
 <li>Develop a comprehensive strategic plan based on financial modeling and a sound understanding of company vision, mission, and values.</li>
 <li>Evaluate product market segmentation and identify appropriate customer channels to best serve these segments.</li>
 </ul>
-<h6 style="text-align: center;"><span style="color: #333333;">Operations</span></h6>
+<h5 style="text-align: center;"><span style="color: #333333;">Operations</span></h5>
 <ul>
 <li>Implement operational best practices across project management and product management.</li>
 <li>Assess the business development function and introduce strategies for B2B and B2C lead generation and sales based on product type and target customer.</li>
