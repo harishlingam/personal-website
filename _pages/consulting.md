@@ -38,7 +38,7 @@ post_date: 2019-01-25 07:15:37
 </tbody>
 </table>
 <h3> </h3>
-<h3 style="text-align: left;"><span style="color: #ff9900;">Examples of past client engagements:</span></h3>
+<h3 style="text-align: left;"><span style="color: #ff9900;">Examples of past client engagements</span></h3>
 <h6 style="text-align: left;"><span style="color: #333333;">Product</span></h6>
 <p>Create or assess a company's digital product strategy.</p>
 <p>Run design sprints with the team using Agile/Scrum methodology.</p>
