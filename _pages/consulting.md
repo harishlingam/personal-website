@@ -40,13 +40,11 @@ post_date: 2019-01-25 07:15:37
 <h3> </h3>
 <h3 style="text-align: left;"><span style="color: #ff9900;">Where can I help you?</span></h3>
 <h6 style="text-align: left;"><span style="color: #333333;">Product</span></h6>
-<ol>
-<li>Create or assess your digital product’s strategy.</li>
-<li>Run design sprints with your team using Agile/Scrum methodology.</li>
-<li>Interview your customers and document their journeys through your product.</li>
-<li>Improve your existing or new services through a gap analysis of how they should be implemented.</li>
-<li>Run experiments to validate your product and feature set.</li>
-</ol>
+<p>Create or assess your digital product’s strategy.</p>
+<p>Run design sprints with your team using Agile/Scrum methodology.</p>
+<p>Interview your customers and document their journeys through your product.</p>
+<p>Improve your existing or new services through a gap analysis of how they should be implemented.</p>
+<p>Run experiments to validate your product and feature set.</p>
 <h6 style="text-align: left;"><span style="color: #333333;">Strategy</span></h6>
 <ol>
 <li>Execute competitive landscape analysis to assess market opportunity and inform product development in a defined area.</li>
