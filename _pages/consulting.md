@@ -13,7 +13,7 @@ post_date: 2019-01-25 07:15:37
 <p><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/consulting-2204253_1920.png"><img class="wp-image-697 alignnone" src="http://www.harishlingam.com/wp-content/uploads/2019/01/consulting-2204253_1920-300x200.png" alt="" width="595" height="396" /></a></p>
 <p>I work with entrepreneurs and organizations to refine product strategy, perform customer research, assess competitive landscape, validate product features, and implement product management best practices. I also consult to individuals and organizations on issues relevant to digital health, healthcare operations, and regulatory compliance. Reach out through <a href="http://www.harishlingam.com/contact-me/">my contact form</a> to discuss how we can work together.</p>
 <h3> </h3>
-<h3 style="text-align: left;"><em><span style="color: #ff9900;">SOLUTIONS DELIVERED</span></em></h3>
+<h3 style="text-align: left;"><span style="color: #33cccc;"><em>SOLUTIONS DELIVERED</em></span></h3>
 <h6 style="text-align: left;"><span style="color: #333333;">Product</span></h6>
 <p>- Create or assess a company's digital product strategy.</p>
 <p>- Run design sprints with the team using Agile/Scrum methodology.</p>
@@ -57,7 +57,7 @@ post_date: 2019-01-25 07:15:37
 </tbody>
 </table>
 <h3> </h3>
-<h3><em><span style="color: #ff9900;">BIO</span></em></h3>
+<h3><span style="color: #33cccc;"><em>BIO</em></span></h3>
 <div>Harish Lingam is a product manager and healthcare consultant who partners with CEOs, organizations, and entrepreneurs to support their strategic and operational goals.</div>
 <div> </div>
 <div>Harish served as COO and Head of Business Development at Addicaid, an enterprise and mobile analytics solution for individuals in addiction recovery. He has consulted extensively in the healthcare/telemedicine space, and he is a subject matter expert in the areas of telehealth practice development and online prescribing issues related to controlled substances, including federal and state law compliance. Previously, he focused on performance improvement initiatives for mid to large-scale healthcare providers and on compliance and risk management solutions for regional U.S. and global financial services institutions. His technology expertise includes agile software development, product strategy, data analytics, metrics management, UI/UX, project management, and cross-functional management.</div>
