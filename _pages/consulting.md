@@ -57,7 +57,7 @@ post_date: 2019-01-25 07:15:37
 </tbody>
 </table>
 <h3> </h3>
-<h3><span style="color: #ff9900;">Bio</span></h3>
+<h3><em><span style="color: #ff9900;">BIO</span></em></h3>
 <div>Harish Lingam is a product manager and healthcare consultant who partners with CEOs, organizations, and entrepreneurs to support their strategic and operational goals.</div>
 <div> </div>
 <div>Harish served as COO and Head of Business Development at Addicaid, an enterprise and mobile analytics solution for individuals in addiction recovery. He has consulted extensively in the healthcare/telemedicine space, and he is a subject matter expert in the areas of telehealth practice development and online prescribing issues related to controlled substances, including federal and state law compliance. Previously, he focused on performance improvement initiatives for mid to large-scale healthcare providers and on compliance and risk management solutions for regional U.S. and global financial services institutions. His technology expertise includes agile software development, product strategy, data analytics, metrics management, UI/UX, project management, and cross-functional management.</div>
