@@ -12,6 +12,25 @@ post_date: 2019-01-25 07:15:37
 <p>&nbsp;</p>
 <p><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/consulting-2204253_1920.png"><img class="wp-image-697 alignnone" src="http://www.harishlingam.com/wp-content/uploads/2019/01/consulting-2204253_1920-300x200.png" alt="" width="595" height="396" /></a></p>
 <p>I work with entrepreneurs and organizations to refine product strategy, perform customer research, assess competitive landscape, validate product features, and implement product management best practices. I also consult to individuals and organizations on issues relevant to digital health, healthcare operations, and regulatory compliance. Reach out through <a href="http://www.harishlingam.com/contact-me/">my contact form</a> to discuss how we can work together.</p>
+<h3> </h3>
+<h3 style="text-align: left;"><span style="color: #ff9900;">Solutions delivered</span></h3>
+<h6 style="text-align: left;"><span style="color: #333333;">Product</span></h6>
+<p>- Create or assess a company's digital product strategy.</p>
+<p>- Run design sprints with the team using Agile/Scrum methodology.</p>
+<p>- Interview customers and document their journeys through the product.</p>
+<p>- Improve  existing or new services through a gap analysis of how they should be implemented.</p>
+<p>- Run experiments to validate a product and feature set.</p>
+<h6> </h6>
+<h6 style="text-align: left;"><span style="color: #333333;">Strategy</span></h6>
+<p>- Execute competitive landscape analysis to assess market opportunity and inform product development in a defined area.</p>
+<p>- Develop a comprehensive strategic plan based on financial modeling and sound understanding of company vision, mission, and values.</p>
+<p>- Evaluate product market segmentation and identify appropriate customer channels to best serve these segments.</p>
+<h6> </h6>
+<h6 style="text-align: left;"><span style="color: #333333;">Operations</span></h6>
+<p>- Implement operational best practices across project management and product management.</p>
+<p>- Assess the business development function and introduce strategies for B2B and B2C lead generation and sales based on product type and target customer.</p>
+<p>- Introduce Agile/Scrum methodology and best practices to optimize the software development process.</p>
+<p>- Implement productivity tools and discuss ways to stack such tools to optimize company operations.</p>
 <p>&nbsp;</p>
 <table>
 <tbody>
@@ -38,25 +57,6 @@ post_date: 2019-01-25 07:15:37
 </tbody>
 </table>
 <h3> </h3>
-<h3 style="text-align: left;"><span style="color: #ff9900;">Solutions delivered</span></h3>
-<h6 style="text-align: left;"><span style="color: #333333;">Product</span></h6>
-<p>- Create or assess a company's digital product strategy.</p>
-<p>- Run design sprints with the team using Agile/Scrum methodology.</p>
-<p>- Interview customers and document their journeys through the product.</p>
-<p>- Improve  existing or new services through a gap analysis of how they should be implemented.</p>
-<p>- Run experiments to validate a product and feature set.</p>
-<h6> </h6>
-<h6 style="text-align: left;"><span style="color: #333333;">Strategy</span></h6>
-<p>- Execute competitive landscape analysis to assess market opportunity and inform product development in a defined area.</p>
-<p>- Develop a comprehensive strategic plan based on financial modeling and sound understanding of company vision, mission, and values.</p>
-<p>- Evaluate product market segmentation and identify appropriate customer channels to best serve these segments.</p>
-<h6> </h6>
-<h6 style="text-align: left;"><span style="color: #333333;">Operations</span></h6>
-<p>- Implement operational best practices across project management and product management.</p>
-<p>- Assess the business development function and introduce strategies for B2B and B2C lead generation and sales based on product type and target customer.</p>
-<p>- Introduce Agile/Scrum methodology and best practices to optimize the software development process.</p>
-<p>- Implement productivity tools and discuss ways to stack such tools to optimize company operations.</p>
-<p>&nbsp;</p>
 <h3><span style="color: #ff9900;">Bio</span></h3>
 <div>Harish Lingam is a product manager and healthcare consultant who partners with CEOs, organizations, and entrepreneurs to support their strategic and operational goals.</div>
 <div> </div>
