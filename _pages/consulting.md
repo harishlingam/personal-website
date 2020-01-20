@@ -14,7 +14,7 @@ post_date: 2019-01-25 07:15:37
 <h6>Consulting</h6>
 <p>I work with entrepreneurs and organizations to refine product strategy, perform customer research, assess competitive landscape, validate product features, and implement product management best practices. I also consult to individuals and organizations on issues relevant to digital health, healthcare operations, and regulatory compliance. Reach out through <a href="http://www.harishlingam.com/contact-me/">my contact form</a> to discuss how we can work together.</p>
 <h3> </h3>
-<h3 style="text-align: left;"><em><span style="color: #ffcc00;">Solutions</span></em></h3>
+<h3 style="text-align: left;"><em><span style="color: #ffcc00;">Solutions and services</span></em></h3>
 <h6 style="text-align: left;"><span style="color: #333333;">Product</span></h6>
 <p>- Create a digital product strategy.</p>
 <p>- Interview customers and document their journey through a product.</p>
