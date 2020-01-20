@@ -18,7 +18,7 @@ post_date: 2019-01-25 07:15:37
 <h6 style="text-align: left;"><span style="color: #333333;">Product</span></h6>
 <p>- Create a digital product strategy.</p>
 <p>- Interview customers and document their journey through a product.</p>
-<p>- Improve existing operational process through gap analysis and root cause analysis.</p>
+<p>- Improve an existing operational process through gap analysis and root cause analysis.</p>
 <p>- Run experiments to validate a product and its feature set.</p>
 <h6> </h6>
 <h6 style="text-align: left;"><span style="color: #333333;">Strategy</span></h6>
