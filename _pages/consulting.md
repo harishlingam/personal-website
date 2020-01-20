@@ -14,7 +14,7 @@ post_date: 2019-01-25 07:15:37
 <h6>Consulting</h6>
 <p>I work with entrepreneurs and organizations to refine product strategy, perform customer research, assess competitive landscape, validate product features, and implement product management best practices. I also consult to individuals and organizations on issues relevant to digital health, healthcare operations, and regulatory compliance. Reach out through <a href="http://www.harishlingam.com/contact-me/">my contact form</a> to discuss how we can work together.</p>
 <h3> </h3>
-<h3 style="text-align: left;"><span style="color: #ffcc00;">Solutions delivered</span></h3>
+<h3 style="text-align: left;"><em><span style="color: #ffcc00;">Solutions delivered</span></em></h3>
 <h6 style="text-align: left;"><span style="color: #333333;">Product</span></h6>
 <p>- Create or assess a company's digital product strategy.</p>
 <p>- Run design sprints with the team using Agile/Scrum methodology.</p>
@@ -58,7 +58,7 @@ post_date: 2019-01-25 07:15:37
 </tbody>
 </table>
 <h3> </h3>
-<h3><span style="color: #ffcc00;">About me</span></h3>
+<h3><em><span style="color: #ffcc00;">About me</span></em></h3>
 <div>I am a product manager and healthcare consultant who partners with CEOs, organizations, and entrepreneurs to support their strategic and operational goals.</div>
 <div> </div>
 <div>I served as COO and Head of Business Development at Addicaid, an enterprise and mobile analytics solution for individuals in addiction recovery. I've consulted extensively in the healthcare/telemedicine space and am a subject matter expert in the areas of telehealth practice development and online prescribing issues related to controlled substances, including federal and state law compliance. Previously, I focused on performance improvement initiatives for mid to large-scale healthcare providers and on compliance and risk management solutions for regional U.S. and global financial services institutions. My technology expertise includes agile software development, product strategy, data analytics, metrics management, UI/UX, project management, and cross-functional management.</div>
