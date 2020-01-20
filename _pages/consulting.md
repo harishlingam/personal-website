@@ -18,13 +18,13 @@ post_date: 2019-01-25 07:15:37
 <h6 style="text-align: left;"><span style="color: #333333;">Product</span></h6>
 <p>- Create a digital product strategy.</p>
 <p>- Interview customers and document their journey through a product.</p>
-<p>- Improve an existing operational process through gap analysis and root cause analysis.</p>
-<p>- Run experiments to validate a product and its feature set.</p>
+<p>- Improve existing operational process through gap analysis and root cause analysis.</p>
+<p>- Run experiments to validate a software product and its feature set.</p>
 <h6> </h6>
 <h6 style="text-align: left;"><span style="color: #333333;">Strategy</span></h6>
 <p>- Assess market opportunity and inform product development in a defined area.</p>
-<p>- Develop a strategic plan based a sound understanding of company vision, mission, and values.</p>
-<p>- Evaluate product/market fit and identify appropriate channels to best serve target segments.</p>
+<p>- Develop a strategic plan based on a sound understanding of company vision, mission, and values.</p>
+<p>- Evaluate product/market fit and identify appropriate channels to best serve target customer segments.</p>
 <h6> </h6>
 <h6 style="text-align: left;"><span style="color: #333333;">Operations</span></h6>
 <p>- Implement operational best practices across project and product management.</p>
