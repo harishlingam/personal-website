@@ -14,24 +14,23 @@ post_date: 2019-01-25 07:15:37
 <h6>Consulting</h6>
 <p>I work with entrepreneurs and organizations to refine product strategy, perform customer research, assess competitive landscape, validate product features, and implement product management best practices. I also consult to individuals and organizations on issues relevant to digital health, healthcare operations, and regulatory compliance. Reach out through <a href="http://www.harishlingam.com/contact-me/">my contact form</a> to discuss how we can work together.</p>
 <h3> </h3>
-<h3 style="text-align: left;"><em><span style="color: #ffcc00;">Solutions delivered</span></em></h3>
+<h3 style="text-align: left;"><em><span style="color: #ffcc00;">Solutions</span></em></h3>
 <h6 style="text-align: left;"><span style="color: #333333;">Product</span></h6>
-<p>- Create or assess a company's digital product strategy.</p>
-<p>- Run design sprints with the team using Agile/Scrum methodology.</p>
-<p>- Interview customers and document their journeys through the product.</p>
-<p>- Improve  existing or new services through a gap analysis of how they should be implemented.</p>
-<p>- Run experiments to validate a product and feature set.</p>
+<p>- Create a digital product strategy.</p>
+<p>- Interview customers and document their journey through a product.</p>
+<p>- Improve existing operational process through gap analysis and root cause analysis.</p>
+<p>- Run experiments to validate a product and its feature set.</p>
 <h6> </h6>
 <h6 style="text-align: left;"><span style="color: #333333;">Strategy</span></h6>
-<p>- Execute competitive landscape analysis to assess market opportunity and inform product development in a defined area.</p>
-<p>- Develop a comprehensive strategic plan based on financial modeling and sound understanding of company vision, mission, and values.</p>
-<p>- Evaluate product market segmentation and identify appropriate customer channels to best serve these segments.</p>
+<p>- Assess market opportunity and inform product development in a defined area.</p>
+<p>- Develop a strategic plan based a sound understanding of company vision, mission, and values.</p>
+<p>- Evaluate product/market fit and identify appropriate channels to best serve target segments.</p>
 <h6> </h6>
 <h6 style="text-align: left;"><span style="color: #333333;">Operations</span></h6>
-<p>- Implement operational best practices across project management and product management.</p>
-<p>- Assess the business development function and introduce strategies for B2B and B2C lead generation and sales based on product type and target customer.</p>
-<p>- Introduce Agile/Scrum methodology and best practices to optimize the software development process.</p>
-<p>- Implement productivity tools and discuss ways to stack such tools to optimize company operations.</p>
+<p>- Implement operational best practices across project and product management.</p>
+<p>- Introduce strategies for  lead generation and sales based on product type and target customer.</p>
+<p>- Implement Agile/Scrum best practices to optimize the software development process.</p>
+<p>- Incorporate software productivity tools and optimize company operations.</p>
 <p>&nbsp;</p>
 <table>
 <tbody>
