@@ -28,7 +28,7 @@ post_date: 2019-01-25 07:15:37
 <h6> </h6>
 <h6 style="text-align: left;"><span style="color: #333333;">Operations</span></h6>
 <p>- Implement operational best practices across project and product management.</p>
-<p>- Introduce strategies for  lead generation and sales based on product type and target customer.</p>
+<p>- Introduce strategies for lead generation and sales based on product type and target customer.</p>
 <p>- Implement Agile/Scrum best practices to optimize the software development process.</p>
 <p>- Incorporate software productivity tools and optimize company operations.</p>
 <p>&nbsp;</p>
