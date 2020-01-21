@@ -16,21 +16,21 @@ post_date: 2019-01-25 07:15:37
 <h3> </h3>
 <h3 style="text-align: left;"><em><span style="color: #ffcc00;">Solutions and services</span></em></h3>
 <h6 style="text-align: left;"><span style="color: #333333;">Product</span></h6>
-<p>- Create a digital product strategy.</p>
-<p>- Interview customers and document their journey through a product.</p>
-<p>- Improve existing operational process through gap analysis and root cause analysis.</p>
-<p>- Run experiments to validate a software product and its feature set.</p>
+<p>+ Create a digital product strategy.</p>
+<p>+ Interview customers and document their journey through a product.</p>
+<p>+ Improve existing operational process through gap analysis and root cause analysis.</p>
+<p>+ Run experiments to validate a software product and its feature set.</p>
 <h6> </h6>
 <h6 style="text-align: left;"><span style="color: #333333;">Strategy</span></h6>
-<p>- Assess market opportunity and inform product development in a defined area.</p>
-<p>- Develop a strategic plan based on a sound understanding of company vision, mission, and values.</p>
-<p>- Evaluate product/market fit and identify appropriate channels to best serve target customer segments.</p>
+<p>+ Assess market opportunity and inform product development in a defined area.</p>
+<p>+ Develop a strategic plan based on a sound understanding of company vision, mission, and values.</p>
+<p>+ Evaluate product/market fit and identify appropriate channels to best serve target customer segments.</p>
 <h6> </h6>
 <h6 style="text-align: left;"><span style="color: #333333;">Operations</span></h6>
-<p>- Implement operational best practices across project and product management.</p>
-<p>- Introduce strategies for lead generation and sales based on product type and target customer.</p>
-<p>- Implement Agile/Scrum best practices to optimize the software development process.</p>
-<p>- Incorporate software productivity tools and optimize company operations.</p>
+<p>+ Implement operational best practices across project and product management.</p>
+<p>+ Introduce strategies for lead generation and sales based on product type and target customer.</p>
+<p>+ Implement Agile/Scrum best practices to optimize the software development process.</p>
+<p>+ Incorporate software productivity tools and optimize company operations.</p>
 <p>&nbsp;</p>
 <table>
 <tbody>
