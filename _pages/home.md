@@ -15,7 +15,7 @@ post_date: 2019-01-25 07:15:37
 <h1><span style="color: #ffcc00;"><em><strong>Hi. I'm Harish.</strong></em></span></h1>
 <p><a href="http://www.harishlingam.com/wp-content/uploads/2019/02/harish-headshot-yellow.png"><img class=" wp-image-740 alignleft" src="http://www.harishlingam.com/wp-content/uploads/2019/02/harish-headshot-yellow-287x300.png" alt="" width="205" height="214" /></a>Hello and welcome! I am a <strong>Digital Product Manager</strong> with a background in science and philosophy.</p>
 <p>I am passionate about the intersections between science, data, and design. Read about my projects <a href="http://www.harishlingam.com/projects/">here</a>.</p>
-<p>I use this site to <a href="http://www.harishlingam.com/blog/">blog</a> about my interests across product management, psychology/neuroscience, connected health, and projects that I am passionate about.</p>
+<p>I use this site to <a href="http://www.harishlingam.com/blog/">blog</a> about my interests across product management, psychology/neuroscience, and connected health.</p>
 <p>You will find information on topics such as <a href="http://www.harishlingam.com/thoughts-on-user-centered-design-and-being-data-driven/">reinterpreting user centered design</a>, <a href="http://www.harishlingam.com/a-primer-on-virtual-reality-exposure-therapy-vret/">virtual reality exposure therapy</a>, and <a href="http://www.harishlingam.com/telemedicine-and-the-interstate-medical-licensure-compact/">interstate telemedicine regulation</a>.</p>
 <h6>Stay connected.</h6>
 <p>If you want to learn more, sign up for my <a href="http://www.harishlingam.com/join/">newsletter</a>, where I share new articles, updates, insights, and opportunities to connect further.</p>
