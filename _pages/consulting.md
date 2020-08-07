@@ -58,14 +58,12 @@ post_date: 2019-01-25 07:15:37
 </table>
 <h3> </h3>
 <h3><em><span style="color: #ffcc00;">About me</span></em></h3>
-<div>I am a <strong>Digital Product Manager</strong> who partners with entrepreneurs, executives, and organizations to support their strategic and operational goals. </div>
-<div> </div>
-<div>My experience includes includes product development and design, installation of operational best practices, and building and leading small to mid-size teams in startup and corporate settings.</div>
+<div>I am a <strong>Digital Product Manager</strong> who partners with entrepreneurs, executives, and organizations to support their strategic and operational goals. My experience includes includes product development and design, installation of operational best practices, and building and leading small to mid-size teams in startup and corporate settings.</div>
 <div> </div>
 <div>Organizations where I have worked or consulted include Harvard University, Promontory Financial Group, NPR, Navigant Consulting, Addicaid, the American Telemedicine Association, and Hack for LA. </div>
 <div> </div>
-<div>I hold a degree in Philosophy from the University of Chicago and completed a postbaccalaureate in premedical sciences at Harvard, where I pursued research and coursework at the intersection of pharmacology and neurobehavior.</div>
+<div>I completed formal training in product management, web development, and data analytics at Product School LA, and I am a Certified ScrumMaster (CSM) and Certified Scrum Product Owner (CSPO). I am an active member of product management associations and bodies throughout LA and nationally, including Agile Alliance, Product School, PMA.LA, and ProductTank Los Angeles.</div>
 <div> </div>
-<div>I completed training in product management, web development, and web analytics at Product School LA, and I am a Certified ScrumMaster (CSM) and Certified Scrum Product Owner (CSPO).</div>
+<div>I hold an A.B. in Philosophy from the University of Chicago and completed a postbaccalaureate program in premedicine at Harvard.</div>
 <div> </div>
 <!-- /wp:fl-builder/layout -->
