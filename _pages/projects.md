@@ -15,7 +15,7 @@ post_date: 2019-01-25 07:15:37
 <p>I graduated from the University of Chicago in Philosophy and completed a Postbaccalaureate in Premedicine at Harvard. I am a Certified ScrumMaster (CSM) and Certified Scrum Product Owner (CSPO). </p>
 <p>&nbsp;</p>
 <h3><em><span style="color: #ffcc00;">Notable projects</span></em></h3>
-<h6>Google Data Studio Dashboard</h6>
+<h6>Hack for LA</h6>
 <p><a href="https://www.hackforla.org">Hack for LA</a> was in need of a consolidated data analytics strategy to track and manage data from a number of different user experience surveys for different stakeholders to be administer on an ongoing basis. I created a set of desktop and mobile analytics dashboards using Google Data Studio that ingested and processed data from a variety of different sources so that this data could be visualized by leadership, marketed with external stakeholders, and shared with internal teams.</p>
 <table>
 <tbody>
