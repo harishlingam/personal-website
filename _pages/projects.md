@@ -1,7 +1,7 @@
 ---
 ID: 160
 post_title: ""
-author: admin
+author: Harish Lingam
 post_excerpt: ""
 layout: page
 permalink: http://www.harishlingam.com/projects/
@@ -9,13 +9,30 @@ published: true
 post_date: 2019-01-25 07:15:37
 ---
 <!-- wp:fl-builder/layout -->
-<p>&nbsp;</p>
 <p><a href="http://www.harishlingam.com/wp-content/uploads/2019/01/1491904148568_4.jpg"><img class="alignnone  wp-image-430" src="http://www.harishlingam.com/wp-content/uploads/2019/01/1491904148568_4-300x173.jpg" alt="" width="626" height="361" /></a></p>
 <h6><span style="color: #ff0000;">[</span>Projects<span style="color: #ff0000;">]</span></h6>
 <p>A bit about me: I am a product manager with a healthcare industry background and experience building products and internal tools for companies ranging from Fortune 500 to startup. I am also an advisor to individuals and organizations in the connected and telehealth space.<br /><br />Previously, I was Interim COO at Addicaid and founder and CEO of Laughing Matters. I have 8 years of professional experience working in Boston, Chicago, Denver, and LA, and my roles included running operations at a health tech startup, consulting to healthcare providers, and managing a health/wellness 501(c)3. In a previous life, I was a behavioral scientist focusing on psychology and neurobehavior. </p>
 <p>I graduated from the University of Chicago in Philosophy and completed a Postbaccalaureate in Premedicine at Harvard. I am a Certified ScrumMaster (CSM) and Certified Scrum Product Owner (CSPO). </p>
 <p>&nbsp;</p>
 <h3><em><span style="color: #ffcc00;">Notable projects</span></em></h3>
+<h6>Google Data Studio Dashboard</h6>
+<p><a href="https://www.hackforla.org">Hack for LA</a> was in need of a consolidated data analytics strategy to track and manage data from a number of different user experience surveys for different stakeholders to be administer on an ongoing basis. I created a set of desktop and mobile analytics dashboards using Google Data Studio that ingested and processed data from a variety of different sources so that this data could be visualized by leadership, marketed with external stakeholders, and shared with internal teams.</p>
+<table>
+<tbody>
+<tr>
+<td width="234">
+<p><a href="http://www.harishlingam.com/wp-content/uploads/2020/08/Google-Data-Studio-dashboard.png"><img class="size-medium wp-image-1099 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2020/08/Google-Data-Studio-dashboard-257x300.png" alt="" width="257" height="300" /></a></p>
+</td>
+<td width="234">
+<p><a href="http://www.harishlingam.com/wp-content/uploads/2020/08/Google-Data-Studio-dashboard-mobile.png"><img class="size-medium wp-image-1100 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2020/08/Google-Data-Studio-dashboard-mobile-86x300.png" alt="" width="86" height="300" /></a></p>
+</td>
+<td width="234">
+<p><a href="http://www.harishlingam.com/wp-content/uploads/2020/08/rsz_hackforla.png"><img class=" wp-image-1101 aligncenter" src="http://www.harishlingam.com/wp-content/uploads/2020/08/rsz_hackforla-300x300.png" alt="" width="142" height="142" /></a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 <h6>Controlled Substances Teleprescribing Algorithm</h6>
 <p>Legal liability concerns rank among the top organizational barriers to telemedicine adoption (see <a href="https://journals.sagepub.com/doi/pdf/10.1177/1357633X16674087">Kruse et. al.</a>). Such concerns extend to the internet prescribing of controlled substances, including medication-assisted treatment of opioid use disorders. These concerns stem from the complex web of federal and state regulations that govern teleprescribing of controlled substances. To assist practitioners navigate such laws, I performed a multi-method qualitative analysis of the <a href="https://www.govinfo.gov/content/pkg/BILLS-110hr6353enr/pdf/BILLS-110hr6353enr.pdf">Ryan Haight Online Pharmacy Consumer Protection Act</a> and state telemedicine laws to design an algorithm for teleprescribing controlled substances (publication forthcoming) and presented a version of this algorithm at the American Telemedicine Association's conference course, <a href="http://www.ata2017.org/home/pre-meeting-certificate-course/">Addiction Treatment in the Era of the Ryan Haight Act</a>.</p>
 <table>
@@ -40,7 +57,7 @@ post_date: 2019-01-25 07:15:37
 </table>
 <p>&nbsp;</p>
 <h6>Addicaid</h6>
-<p>I lead operations and business development at Addicaid, a B2B2C technology startup offering a mobile and enterprise SaaS for addiction treatment management. I worked with the CEO to implement product management best practices, which maintained Addicaid as the #1 addiction app during its tenure on the iOS App Store. Addicaid was a finalist in the Forum on Healthcare Innovation's <a href="https://www.prnewswire.com/news-releases/finalists-announced-in-harvard-business-school-harvard-medical-school-health-acceleration-challenge-300312432.html">Healthcare Innovation Challenge,</a> co-recipient of the Harvard Business School-Harvard Medical School <a href="https://www.hbs.edu/news/releases/Pages/carrum-health-wins-health-acceleration-challenge.aspx?cid=spmailing-17652230-HCI-FHI.2016.11.13.HAC.Announcement%20of%20Winner%20Denise%20Collins%2011/13/2017%204:07%20PM-November%2013,%202017">Cox Prize,</a> and a finalist in a 2017 Google VR/AI Startup Challenge. | <a href="https://www.huffingtonpost.com/craig-newmark/10-women-led-vr-and-ai-st_b_14056536.html">Huffington Post</a> | <a href="https://money.cnn.com/2017/04/25/technology/tech-versus-taboos-addiction/index.html">CNN Business</a></p>
+<p>I led product management and operations at Addicaid, a B2B2C technology startup offering a mobile and enterprise SaaS for addiction treatment management. I worked with the CEO to implement product management best practices, which maintained Addicaid as the #1 addiction app during its tenure on the iOS App Store. Addicaid was a finalist in the Forum on Healthcare Innovation's <a href="https://www.prnewswire.com/news-releases/finalists-announced-in-harvard-business-school-harvard-medical-school-health-acceleration-challenge-300312432.html">Healthcare Innovation Challenge,</a> co-recipient of the Harvard Business School-Harvard Medical School <a href="https://www.hbs.edu/news/releases/Pages/carrum-health-wins-health-acceleration-challenge.aspx?cid=spmailing-17652230-HCI-FHI.2016.11.13.HAC.Announcement%20of%20Winner%20Denise%20Collins%2011/13/2017%204:07%20PM-November%2013,%202017">Cox Prize,</a> and a finalist in a 2017 Google VR/AI Startup Challenge. | <a href="https://www.huffingtonpost.com/craig-newmark/10-women-led-vr-and-ai-st_b_14056536.html">Huffington Post</a> | <a href="https://money.cnn.com/2017/04/25/technology/tech-versus-taboos-addiction/index.html">CNN Business</a></p>
 <table>
 <tbody>
 <tr>
