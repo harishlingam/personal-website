@@ -60,7 +60,7 @@ post_date: 2019-01-25 07:15:37
 <h3><em><span style="color: #ffcc00;">About me</span></em></h3>
 <div>I am a <strong>Digital Product Manager</strong> who partners with entrepreneurs, executives, and organizations to support their strategic and operational goals. </div>
 <div> </div>
-<div>As a consultant, product manager, and entrepreneur, my experience includes includes building and leading small to mid-size teams (business operations, product management, general management) in startup and corporate settings.</div>
+<div>My experience includes includes product development and design, installation of operational best practices, and building and leading small to mid-size teams in startup and corporate settings.</div>
 <div> </div>
 <div>Organizations where I have worked or consulted include Harvard University, Promontory Financial Group, NPR, Navigant Consulting, Addicaid, the American Telemedicine Association, and Hack for LA. </div>
 <div> </div>
