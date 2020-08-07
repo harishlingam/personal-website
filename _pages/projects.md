@@ -16,7 +16,7 @@ post_date: 2019-01-25 07:15:37
 <p>&nbsp;</p>
 <h3><em><span style="color: #ffcc00;">Notable projects</span></em></h3>
 <h6>Hack for LA</h6>
-<p><a href="https://www.hackforla.org">Hack for LA</a> was in need of a consolidated data analytics strategy to track and manage data from a number of different user experience surveys for different stakeholders to be administer on an ongoing basis. I created a set of desktop and mobile analytics dashboards using Google Data Studio that ingested and processed data from a variety of different sources so that this data could be visualized by leadership, marketed with external stakeholders, and shared with internal teams.</p>
+<p><a href="https://www.hackforla.org">Hack for LA</a> was in need of a consolidated data analytics strategy to track and manage data from several different user experience surveys administered to different stakeholders on an ongoing basis. I created a set of analytics dashboards in desktop and mobile formats using Google Data Studio. The dashboards ingested data from several different sources so that key performance metrics and user sentiment could be visualized by leadership, marketed to external stakeholders, and shared with internal teams.</p>
 <table>
 <tbody>
 <tr>
