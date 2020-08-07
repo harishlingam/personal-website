@@ -1,7 +1,7 @@
 ---
 ID: 158
 post_title: ""
-author: admin
+author: Harish Lingam
 post_excerpt: ""
 layout: page
 permalink: http://www.harishlingam.com/consulting/
@@ -58,9 +58,9 @@ post_date: 2019-01-25 07:15:37
 </table>
 <h3> </h3>
 <h3><em><span style="color: #ffcc00;">About me</span></em></h3>
-<div>I am a product manager and healthcare consultant who partners with CEOs, organizations, and entrepreneurs to support their strategic and operational goals.</div>
+<div>I am a <strong>Digital Product Manager</strong> who partners with entrepreneurs, executives, and organizations to support their strategic and operational goals.</div>
 <div> </div>
-<div>I served as COO and Head of Business Development at Addicaid, an enterprise and mobile analytics solution for individuals in addiction recovery. I've consulted extensively in the healthcare/telemedicine space and am a subject matter expert in the areas of telehealth practice development and online prescribing issues related to controlled substances, including federal and state law compliance. Previously, I focused on performance improvement initiatives for mid to large-scale healthcare providers and on compliance and risk management solutions for regional U.S. and global financial services institutions. My technology expertise includes agile software development, product strategy, data analytics, metrics management, UI/UX, project management, and cross-functional management.</div>
+<div>Organizations where I have worked or consulted include Harvard University, Promontory Financial Group, Navigant Consulting, Addicaid, and Hack for LA. I have expertise in agile software development, product management, product strategy, operations management, data analytics, and connected health. As a consultant, product manager, and entrepreneur, my experience includes building and leading small to mid-size teams (business operations, product management, general management) in startup and corporate settings. </div>
 <div> </div>
-<div>I hold a degree in Philosophy from the University of Chicago and completed a Postbaccalaureate in Premedicine at Harvard. I've worked extensively in the areas of product management, data analytics, and web development, and I am a Certified ScrumMaster (CSM) and Certified Scrum Product Owner (CSPO) through Agile Alliance.</div>
+<div>I hold a degree in Philosophy from the University of Chicago and completed a postbaccalaureate in premedical sciences at Harvard, where I pursued research and coursework at the intersection of pharmacology and neurobehavior. I am a graduate of Product School, and I am a Certified ScrumMaster (CSM) and Certified Scrum Product Owner (CSPO).</div>
 <!-- /wp:fl-builder/layout -->
