@@ -58,9 +58,11 @@ post_date: 2019-01-25 07:15:37
 </table>
 <h3> </h3>
 <h3><em><span style="color: #ffcc00;">About me</span></em></h3>
-<div>I am a <strong>Digital Product Manager</strong> who partners with entrepreneurs, executives, and organizations to support their strategic and operational goals.</div>
+<div>I am a <strong>Digital Product Manager</strong> who partners with entrepreneurs, executives, and organizations to support their strategic and operational goals. </div>
 <div> </div>
-<div>Organizations where I have worked or consulted include Harvard University, Promontory Financial Group, Navigant Consulting, Addicaid, and Hack for LA. I have expertise in agile software development, product management, product strategy, operations management, data analytics, and connected health. As a consultant, product manager, and entrepreneur, my experience includes building and leading small to mid-size teams (business operations, product management, general management) in startup and corporate settings. </div>
+<div>As a consultant, product manager, and entrepreneur, my experience includes includes building and leading small to mid-size teams (business operations, product management, general management) in startup and corporate settings.</div>
+<div> </div>
+<div>Organizations where I have worked or consulted include Harvard University, Promontory Financial Group, NPR, Navigant Consulting, Addicaid, the American Telemedicine Association, and Hack for LA. </div>
 <div> </div>
 <div>I hold a degree in Philosophy from the University of Chicago and completed a postbaccalaureate in premedical sciences at Harvard, where I pursued research and coursework at the intersection of pharmacology and neurobehavior. I am a graduate of Product School, and I am a Certified ScrumMaster (CSM) and Certified Scrum Product Owner (CSPO).</div>
 <!-- /wp:fl-builder/layout -->
