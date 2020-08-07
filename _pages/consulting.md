@@ -62,7 +62,7 @@ post_date: 2019-01-25 07:15:37
 <div> </div>
 <div>Organizations where I have worked or consulted include Harvard University, Promontory Financial Group, NPR, Navigant Consulting, Addicaid, the American Telemedicine Association, and Hack for LA. </div>
 <div> </div>
-<div>I completed formal training in product management, web development, and data analytics at Product School LA, and I am a Certified ScrumMaster (CSM) and Certified Scrum Product Owner (CSPO). I am an active member of product management associations and bodies throughout LA and nationally, including Agile Alliance, Product School, PMA.LA, and ProductTank Los Angeles.</div>
+<div>I completed formal training in product management, web development, and data analytics at Product School LA, and I am a Certified ScrumMaster (CSM) and Certified Scrum Product Owner (CSPO). I am also an active member of product management associations and bodies throughout LA and nationally, including Agile Alliance, Product School, PMA.LA, and ProductTank Los Angeles.</div>
 <div> </div>
 <div>I hold an A.B. in Philosophy from the University of Chicago and completed a postbaccalaureate program in premedicine at Harvard.</div>
 <div> </div>
