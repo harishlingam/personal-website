@@ -64,5 +64,8 @@ post_date: 2019-01-25 07:15:37
 <div> </div>
 <div>Organizations where I have worked or consulted include Harvard University, Promontory Financial Group, NPR, Navigant Consulting, Addicaid, the American Telemedicine Association, and Hack for LA. </div>
 <div> </div>
-<div>I hold a degree in Philosophy from the University of Chicago and completed a postbaccalaureate in premedical sciences at Harvard, where I pursued research and coursework at the intersection of pharmacology and neurobehavior. I am a graduate of Product School, and I am a Certified ScrumMaster (CSM) and Certified Scrum Product Owner (CSPO).</div>
+<div>I hold a degree in Philosophy from the University of Chicago and completed a postbaccalaureate in premedical sciences at Harvard, where I pursued research and coursework at the intersection of pharmacology and neurobehavior.</div>
+<div> </div>
+<div>I completed training in product management, web development, and web analytics at Product School LA, and I am a Certified ScrumMaster (CSM) and Certified Scrum Product Owner (CSPO).</div>
+<div> </div>
 <!-- /wp:fl-builder/layout -->
