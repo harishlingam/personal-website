@@ -3,7 +3,7 @@ ID: 1052
 post_title: >
   Thoughts on user-centered design and
   being data driven
-author: admin
+author: Harish Lingam
 post_excerpt: ""
 layout: post
 permalink: >
@@ -23,9 +23,11 @@ post_date: 2020-08-06 23:17:56
 <h4></h4>
 &nbsp;
 <h4>More than buzzwords</h4>
-“User-centered design" and "data-driven” — as product managers, we know these buzzwords all too well. With good reason. They represent ideas that are at the heart and soul of good product management. We may observe that "user-centered design” is lower on the ladder of abstraction than “data-driven.” A Google search of the the keyword “user-centered design” returns 239 million results, while “data-driven” returns 725 million results. And the conjoint of “user-centered design and data-driven”? Nearly 80 million results. Setting aside this disparity in keyword search frequency, a lot of people have a lot to say about both of these subjects.
+“User-centered design" and "data-driven” — as product managers, we know these buzzwords all too well. With good reason. They represent ideas that are at the heart and soul of good product management.
 
-Yet, like all buzzwords, the terms “user-centered design” and “data-driven” find a way to nestle into conceptual abstraction. We may expound on a data-driven culture in one conversation, discuss the merits of user-centered design in another, before we return to grooming our product backlog in Jira. It's expedient and it's compartmentalized and it is perfectly understandable of anyone in the fast-pace realm of product development. Yet, these conversations also run the risk of an intellectualization of sorts, which ironically runs counter to the very customer empathy needed of good user-centered design.
+We may observe that "user-centered design” is lower on the ladder of abstraction than “data-driven.” A Google search of the the keyword “user-centered design” returns 239 million results, while “data-driven” returns 725 million results. And the conjoint of “user-centered design and data-driven”? Nearly 80 million results. Setting aside this disparity in keyword search frequency, a lot of people have a lot to say about both of these subjects.
+
+Yet, like all buzzwords, the terms “user-centered design” and “data-driven” find a way to nestle into conceptual abstraction. We may expound on a data-driven culture in one conversation, discuss the merits of user-centered design in another, before we return to grooming our product backlog in Jira. It's expedient and it's compartmentalized. Yet, these conversations run the risk of veering into intellectualization, which ironically runs counter to the very customer empathy needed of good user-centered design.
 
 &nbsp;
 
